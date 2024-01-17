@@ -29,6 +29,10 @@
 - [ ] Commits messages follow our [format][format]
 - [ ] Extend the documentation, if necessary
 - [ ] Merging to `main` from `branch-name`
+- [ ] Manual accessibility test performed
+    - [ ] Keyboard-only access, including forms
+    - [ ] Contrast at least WCAG Level A
+    - [ ] Appropriate labels, alt text, and instructions
 
 [dco]: https://github.com/probot/dco#how-it-works
 [format]: https://github.com/bookworm-reads
