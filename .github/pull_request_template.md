@@ -24,7 +24,6 @@
 - Pull Request #<NUMBER>
 
 ### Author Checklist
-- [ ] Ensure you provide a [DCO sign-off][dco] for your commits using the `--signoff` option of git commit.
 - [ ] Vital features and changes captured in unit and/or integration tests
 - [ ] Commits messages follow our [format][format]
 - [ ] Extend the documentation, if necessary
@@ -34,5 +33,4 @@
     - [ ] Contrast at least WCAG Level A
     - [ ] Appropriate labels, alt text, and instructions
 
-[dco]: https://github.com/probot/dco#how-it-works
 [format]: https://github.com/bookworm-reads
